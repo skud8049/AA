@@ -8,6 +8,7 @@ public class VRUI {
 
 	private List<Customer> customers = new ArrayList<Customer>() ;
 
+	//test
 	private List<Video> videos = new ArrayList<Video>() ;
 
 	public static void main(String[] args) {
